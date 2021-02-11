@@ -4,3 +4,11 @@
 body {
     background-color: rgb(198, 224, 198)
 }
+
+#cidade {
+    text-decoration:underline
+}
+
+.list-style {
+    background-color: rgb(4, 48, 33);
+}
