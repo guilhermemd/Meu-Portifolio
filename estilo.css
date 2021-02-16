@@ -25,3 +25,7 @@ body {
     padding: 10px 10px 10px 10px;
 }
 
+.impar {
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
