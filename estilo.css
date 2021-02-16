@@ -12,3 +12,10 @@ body {
 .list-style {
     background-color: rgb(4, 48, 33);
 }
+
+.description {
+    position: absolute;
+    top: 140px;
+    left: 170px;    
+
+}
